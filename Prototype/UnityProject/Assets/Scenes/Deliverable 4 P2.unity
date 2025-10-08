@@ -2808,8 +2808,6 @@ PlayableDirector:
   m_SceneBindings:
   - key: {fileID: 5268309757969658122, guid: c1df5533b05f0de4bac796e66b5bbf9a, type: 2}
     value: {fileID: 757854623}
-  - key: {fileID: -1771016630958271034, guid: c1df5533b05f0de4bac796e66b5bbf9a, type: 2}
-    value: {fileID: 757854623}
   m_ExposedReferences:
     m_References: []
 --- !u!95 &757854623
@@ -3670,7 +3668,7 @@ Transform:
   m_GameObject: {fileID: 1070255051}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2, y: 0.53156257, z: 0}
+  m_LocalPosition: {x: 2, y: 0.5315626, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
